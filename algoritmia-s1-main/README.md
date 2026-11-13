@@ -1,2 +1,2 @@
 # algoritmia-s1
-#algoritmia-se
+todo lo de la semana
